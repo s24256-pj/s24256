@@ -10,8 +10,8 @@ public class Prostokat implements MoznaWyznaczycWielokrotnoscPrzekatnej, MoznaWy
     final int bok1,bok2;
 
     public Prostokat(int bok11, int bok22) {
-        bok1 = bok11;
-        bok2 = bok22;
+        bok2 = bok11;
+        bok1 = bok22;
     }
 
     @Override
